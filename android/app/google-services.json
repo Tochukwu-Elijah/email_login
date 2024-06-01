@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1027133317252",
+    "project_id": "form-fec8e",
+    "storage_bucket": "form-fec8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027133317252:android:f4e0f435d4e431950862d1",
+        "android_client_info": {
+          "package_name": "com.example.formfill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027133317252-5gjkkhsj64tdt858hk13q386edv9sdep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBad82fCHysqGfLj9pDce8Hne-QC3q9kW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027133317252-5gjkkhsj64tdt858hk13q386edv9sdep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027133317252-d0v13emj28udi70f49eogd3to9s664ph.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.formfill"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
